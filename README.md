@@ -6,7 +6,7 @@
 
 ### 🧠 About Me
 - 🎓 I'm a **B.Tech 2nd Year Student (Computer Science Engineering)** under **AKTU**  
-- 💡 Currently learning **Core Java**, **Object-Oriented Programming**, and **DSA in Java**  
+- 💡 Currently learning **Core Java**,**Spring Boot**,**Microservices**, and **DSA in Java**  
 - 🚀 Working towards becoming a **Java Backend Developer** and building projects .
 - 🧩 I love exploring new technologies and improving my coding culture   
 
