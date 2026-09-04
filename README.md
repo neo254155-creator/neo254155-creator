@@ -55,7 +55,7 @@ FeedbackServlet using JDBC with PreparedStatements, session management via Cooki
 Babu Banarsi Das Institute of Technology and Management (AKTU), Lucknow, India B.Tech, Computer Science & IT | 2024 – 2028 (Pursuing, 3rd Year)
 
 🤝 Connect With Me
-<p align="center"> <a href="mailto:neo254155@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="www.linkedin.com/in/adityakchaubeyME"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/neo254155-creator"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p align="center"> <a href="mailto:neo254155@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="www.linkedin.com/in/adityakchaubey"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/neo254155-creator"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=neo254155-creator&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> </p> <p align="center"><i>⭐️ From <a href="https://github.com/neo254155-creator">neo254155-creator</a></i></p>
 ### 💬 Fun Fact
 ☕ I debug Java code faster after my 2nd cup of coffee!
