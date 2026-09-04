@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Chaubey</h1> <h3 align="center">Backend-focused Java Developer | Spring Boot | Building Full-Stack Web Applications</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+Developer;3rd+Year+CSE+Student+%40+AKTU;Building+REST+APIs+%26+Full-Stack+Apps;Always+learning+something+new" alt="Typing SVG" /> </p>
-🚀 About Me
-🎓 I'm currently pursuing a B.Tech in Computer Science & IT at Babu Banarsi Das Institute of Technology and Management (AKTU), Lucknow — 3rd Year
-💻 I love building full-stack web applications with Java, Spring Boot, and PostgreSQL
-🔭 I'm currently working on projects involving REST APIs, authentication (JWT), and role-based systems
-🌱 I'm currently deepening my knowledge of Spring Security, Hibernate, and system design
-👯 I'm looking to collaborate on backend/full-stack Java projects
-📫 How to reach me: neo254155@gmail.com
-⚡ Fun fact: I enjoy designing clean relational data models almost as much as writing the APIs around them
-🛠️ Tech Stack & Skills
+About Me
+
+I'm a Computer Science & IT undergraduate (3rd year) at Babu Banarsi Das Institute of Technology and Management, AKTU, Lucknow, with a focus on backend and full-stack Java development.
+
+I build full-stack web applications using Java, Spring Boot, and PostgreSQL, with an emphasis on REST API design, JWT-based authentication, and role-based access control. I'm currently deepening my knowledge of Spring Security, Hibernate, and system design fundamentals.
+
+I'm open to collaborating on backend or full-stack Java projects.
+
+Contact: neo254155@gmail.com
+
+Tech Stack & Skills
 
 Languages
 
-<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
 
 Frameworks & Backend
 
@@ -55,14 +57,5 @@ FeedbackServlet using JDBC with PreparedStatements, session management via Cooki
 Babu Banarsi Das Institute of Technology and Management (AKTU), Lucknow, India B.Tech, Computer Science & IT | 2024 – 2028 (Pursuing, 3rd Year)
 
 🤝 Connect With Me
-<p align="center"> <a href="mailto:neo254155@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="www.linkedin.com/in/adityakchaubey"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/neo254155-creator"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p align="center"> <a href="mailto:neo254155@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/neo254155-creator"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=neo254155-creator&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> </p> <p align="center"><i>⭐️ From <a href="https://github.com/neo254155-creator">neo254155-creator</a></i></p>
-### 💬 Fun Fact
-☕ I debug Java code faster after my 2nd cup of coffee!
-
----
-
-<p align="center">
-  <i>Let’s connect and grow together in tech 🚀</i><br>
-  <a href=https://github.com/neo254155-creator><img src="https://img.shields.io/badge/Follow_me_on_GitHub-181717?style=for-the-badge&logo=github"/></a>
-</p>
