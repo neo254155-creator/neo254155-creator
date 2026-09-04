@@ -50,8 +50,6 @@ Server-rendered feedback application — Java Servlets, JDBC, PostgreSQL, JSP, B
 Dynamic feedback web app using JSP + Servlets on Apache Tomcat with reusable JSP includes
 Bootstrap feedback form (name, email, rating, likes/improvements, recommendation) submitted via POST
 FeedbackServlet using JDBC with PreparedStatements, session management via Cookies and HttpSession
-📊 GitHub Stats
-<p align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=neo254155-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neo254155-creator&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=neo254155-creator&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="center">  </p>
 🎓 Education
 
 Babu Banarsi Das Institute of Technology and Management (AKTU), Lucknow, India B.Tech, Computer Science & IT | 2024 – 2028 (Pursuing, 3rd Year)
