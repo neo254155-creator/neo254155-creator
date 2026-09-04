@@ -26,7 +26,7 @@ Frontend
 Database & Tools
 
 <p> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
-📌 Featured Projects
+* Featured Projects
 🛒 E-Commerce Web Application
 
 Full-stack shopping platform — Java, Spring Boot, Spring Data JPA, PostgreSQL, HTML, CSS, JavaScript
@@ -35,7 +35,7 @@ REST API backend with vanilla JS frontend for product browsing, cart management,
 Relational data models (Product, Order, OrderItem) with bidirectional JPA/Hibernate mappings and auto-calculated order totals
 Checkout API validating cart items, stock, and product existence before persisting orders
 Atomic order creation using @Transactional, structured error handling via ResponseEntity, tested with Postman
-🏥 Hospital Management System
+ Hospital Management System
 
 Role-based healthcare management platform — Java, Spring Boot, Spring Security, JWT, PostgreSQL, Hibernate/JPA
 
@@ -54,6 +54,6 @@ FeedbackServlet using JDBC with PreparedStatements, session management via Cooki
 
 Babu Banarsi Das Institute of Technology and Management (AKTU), Lucknow, India B.Tech, Computer Science & IT | 2024 – 2028 (Pursuing, 3rd Year)
 
-🤝 Connect With Me
+# Connect With Me
 <p align="center"> <a href="mailto:neo254155@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/adityakchaubey/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/neo254155-creator"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=neo254155-creator&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> </p> <p align="center"><i>⭐️ From <a href="https://github.com/neo254155-creator">neo254155-creator</a></i></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=neo254155-creator&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> </p> <p align="center"><i> From <a href="https://github.com/neo254155-creator">neo254155-creator</a></i></p>
