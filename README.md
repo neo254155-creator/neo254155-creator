@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aditya Kumar Chaubey</h1> <h3 align="center">Backend-focused Java Developer | Spring Boot | Building Full-Stack Web Applications</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+Developer;3rd+Year+CSE+Student+%40+AKTU;Building+REST+APIs+%26+Full-Stack+Apps;Always+learning+something+new" alt="Typing SVG" /> </p>
+<h1 align="center">Hi, I'm Aditya Kumar Chaubey</h1> <h3 align="center">Backend-focused Java Developer | Spring Boot | Building Full-Stack Web Applications</h3> <p align="center">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+Developer;3rd+Year+CSE+Student+%40+AKTU;Building+REST+APIs+%26+Full-Stack+Apps;Always+learning+something+new" alt="Typing SVG" /> </p>
 About Me
 
 I'm a Computer Science & IT undergraduate (3rd year) at Babu Banarsi Das Institute of Technology and Management, AKTU, Lucknow, with a focus on backend and full-stack Java development.
